@@ -17,8 +17,8 @@
   <p style="text-align:center;">The official contact form</p>
 
   <form action="https://formspree.io/f/xvganbnp" method="POST">
-    <input type="text" name="name" placeholder="Your Name" required />
-    <input type="email" name="email" placeholder="Your Email" required />
+    <input type="text" name="name" placeholder="VenusPannu" required />
+    <input type="email" name="email" placeholder="pannu.gurjot@gmail.com" required />
     <textarea name="message" placeholder="Your Message" rows="4" required></textarea>
     <input type="hidden" name="_captcha" value="false" />
     <input type="submit" value="Send Message" />
